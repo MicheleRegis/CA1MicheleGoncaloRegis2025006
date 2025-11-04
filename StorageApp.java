@@ -1,4 +1,4 @@
-package CAMicheleGRegis2025006;
+package StorageApp;
 
 
 import java.time.LocalDate;
@@ -223,7 +223,7 @@ class StorageFactory {
 }
 
 // -------------------- Main Application --------------------
-public class CAMicheleGRegis2025006 {
+public class StorageApp {
     private static final int CAPACITY = 8;
     private static final DateTimeFormatter DATE_FMT = DateTimeFormatter.ofPattern("yyyy-MM-dd");
 
